@@ -1,7 +1,12 @@
 {
   "expungeHeadline": "<u>The next clinic will be on May 22. Training will be on the 19th.</u> Talk to Mairead for more information. And don't forget, you are a bright shining star in the rapidly expanding universe of criminal justice reform! <i class='fas fa-star'></i> <i class='fas fa-meteor'></i>",
   "letter": {
-        "p1": ""
+         "subject":"Expungement/Sealing Summary",
+         "intro": "Thank you for meeting with me to discuss your legal options for clearing your criminal record. We have prepared the following document for you today:",
+         "introPlural": "Thank you for meeting with me to discuss your legal options for clearing your criminal record. We have prepared the following documents for you today:",
+         "p1": "The client checkout sheet provides greater detail on the criminal history we reviewed. We only reviewed the information available to us and this may not include your entire history.",
+         "closingParagraph": "Please feel free to get in touch if you have any questions.",
+         "sigClosing": "Sincerely"
   },
   "roleText": {
         "attyConsult": "You are being represented by an Attorney ONLY in relation to reviewing your record and preparing your expungement or sealing petitions. Your communications with your attorney will be kept confidential except your attorney may provide personal information in your petitions unless you tell your attorney not to. While your attorney may agree to file any petitions listed here for you, they will NOT enter an appearance in the matter.You will have to respond to the court and the State on your own when asked to do so.",
