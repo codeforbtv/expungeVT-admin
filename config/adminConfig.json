@@ -15,20 +15,20 @@
         "stateAssist": "We look forward to working with you today on your expungement request. We are here to help you make your request and fill out the paperwork you’ll need to complete.  To make sure we don’t create any confusion about our role, we want to let you know that we can only help with your expungement request today. We won’t be able to provide legal advice on other issues, and we won’t be able to provide legal assistance on other issues in the future.  Your communications with the attorney you are working with will be kept confidential, except the attorney may provide personal information in your petitions if you authorize them to do so.  The attorney will not represent you in the future.  This means you will have to respond to the court and the State on your own when you are asked to do so."
   },
   "countyContacts": {
-    "Addison": "Court phone number:",
-    "Bennington": "Court phone number:",
-    "Caledonia": "Court phone number:",
+    "Addison": "Court phone number: 802-388-4237",
+    "Bennington": "Court phone number: 802-447-2727",
+    "Caledonia": "Court phone number: 802-748-6600",
     "Chittenden": "Court phone number: 802-651-1950",
-    "Essex": "Court phone number:",
-    "Franklin": "Court phone number:",
-    "Grand Isle": "Court phone number:",
-    "Lamoille": "Court phone number:",
-    "Orange": "Court phone number:",
-    "Orleans": "Court phone number:",
+    "Essex": "Court phone number: 802-676-3910",
+    "Franklin": "Court phone number: 802-524-7997",
+    "Grand Isle": "Court phone number: 802-372-8350",
+    "Lamoille": "Court phone number: 802-888-3887",
+    "Orange": "Court phone number: 802-888-3887",
+    "Orleans": "Court phone number: 802-334-3325",
     "Rutland": "Court phone number: 802-786-5880",
-    "Washington": "Court phone number:",
-    "Windham": "Court phone number:",
-    "Windsor": "Court phone number:"
+    "Washington": "Court phone number: 802-479-4205",
+    "Windham": "Court phone number: 802-257-2800",
+    "Windsor": "Court phone number: 802-295-8865"
   },
   "stipDefinition": "This symbol indicates that we prepared a 'stipulated' petition for the listed count, which means that both parties agree to the petition. If the State's Attorney signs the petition, they have agreed (or stipulated) to it. Just because a petition is stipulated does not always mean that the Court will grant your expungement or sealing."
 }
